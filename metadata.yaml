@@ -1,0 +1,37 @@
+_repo: Narrative-of-the-Circumnavigation-of-the-Globe-by-the-Austrian-Frigate-Novara-Volume-IIIAustr__38478
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scherzer, Karl, Ritter von
+    aliases:
+    - Scherzer, Charles de
+    - Scherzer, Carl
+    - Scherzer, C.
+    - Scherzer, Karl Ritter von
+    birthdate: 1821
+    deathdate: 1903
+    gutenberg_agent_id: '39479'
+    url: http://www.gutenberg.org/2009/agents/39479
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2012-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38478'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Q'
+- !lcsh 'Voyages around the world -- History -- 19th century'
+- !lcsh 'Novara Expedition (1857-1859)'
+title: "Narrative of the Circumnavigation of the Globe by the Austrian Frigate Novara,\
+  \ Volume III\r\n(Commodore B. Von Wullerstorf-Urbair,) Undertaken by Order of the\
+  \ Imperial Government in the Years 1857, 1858, & 1859, Under the Immediate Auspices\
+  \ of His I. and R. Highness the Archduke Ferdinand Maximilian, Commander-In-Chief\
+  \ of the\r\nAustrian Navy."
+url: http://www.gutenberg.org/ebooks/38478
